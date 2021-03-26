@@ -14,6 +14,7 @@ namespace transferLargeFile_HttpWebRequest_ReadAsync_dk2
         [STAThread]
         static void Main()
         {
+            /*This is a change locally on Mar 26th 2021*/
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
