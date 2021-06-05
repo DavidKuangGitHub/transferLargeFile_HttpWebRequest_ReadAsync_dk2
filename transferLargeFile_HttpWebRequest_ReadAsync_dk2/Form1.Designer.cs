@@ -68,6 +68,7 @@ namespace transferLargeFile_HttpWebRequest_ReadAsync_dk2
             this.tx_data.Name = "tx_data";
             this.tx_data.Size = new System.Drawing.Size(695, 31);
             this.tx_data.TabIndex = 3;
+            this.tx_data.Text = "[Enter your test text here]";
             // 
             // Form1
             // 
